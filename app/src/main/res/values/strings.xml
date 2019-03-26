@@ -1,5 +1,13 @@
 <resources>
-    <string name="app_name">Meter</string>
+    <string name="app_name">E-Meter</string>
     <string name="title_activity_camera">CameraActivity</string>
+
+    <string name="verification_message">
+       E-meter will send you an SMS message(carrier changes may apply) to verify your phone number.\n
+        Enter your country code and phone number.
+    </string>
+
+    <string name="enter_to_number">Please enter the six digit verification code sent to your number.</string>
+
     <color name="transparent">#00000000</color>
 </resources>

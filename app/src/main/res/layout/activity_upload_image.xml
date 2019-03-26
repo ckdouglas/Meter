@@ -14,20 +14,21 @@
         <android.support.v7.widget.Toolbar
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimary">
+            android:background="@color/black">
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:text="Upload Image"
+                    android:text="Meter Readings"
+                    android:textColor="@color/white"
                     android:textSize="20dp"
                     android:paddingTop="10dp"
                     android:textAlignment="center"/>
 
                 <ImageView
-                    android:id="@+id/upLoadImg"
+                    android:id="@+id/uploadImage"
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_alignParentTop="true"
@@ -42,7 +43,8 @@
     <RelativeLayout
         android:layout_below="@+id/appbar"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="@color/black">
         <ImageView
             android:id="@+id/meterImage"
             android:layout_width="match_parent"

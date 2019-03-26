@@ -15,11 +15,12 @@
         <android.support.v7.widget.Toolbar
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimary">
+            android:background="@color/black">
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Scan Barcode"
+                android:text="Scan Meter Number"
+                android:textColor="@color/white"
                 android:textSize="20dp"
                 android:paddingTop="10dp"
                 android:textAlignment="center" />

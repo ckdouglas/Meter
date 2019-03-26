@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532842635686",
+    "firebase_url": "https://meter-5a189.firebaseio.com",
+    "project_id": "meter-5a189",
+    "storage_bucket": "meter-5a189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532842635686:android:1eb5751f48da2536",
+        "android_client_info": {
+          "package_name": "com.example.lime.meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532842635686-bd607cppi5q42knf7um339utq53qpf5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lime.meter",
+            "certificate_hash": "674ddc9ceac3732b387cf2cfd8236701f05ba2fa"
+          }
+        },
+        {
+          "client_id": "532842635686-t4qav7jn83nnq53148j62h3vap3l8j3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkhLzhoCg_t6cnQREQMfBsNI_T2c_23jY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532842635686-t4qav7jn83nnq53148j62h3vap3l8j3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
